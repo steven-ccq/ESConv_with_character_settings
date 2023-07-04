@@ -1,5 +1,6 @@
 # ESConv_with_character_settings
 ## 文件说明
+- dial_settings.json 人物设定字段
 - self_instruct self-instruct的py文件目录
 - scripts self-instruct的sh脚本目录
 - fill_profile.py 调用chatGPT填充稀疏的json格式profile
