@@ -5,7 +5,9 @@
 
 **[7.6] 经过反复对比，第二人称人设似乎可以达到比第一人称的表现要好，因此暂定接下来的对话生成中使用第二人称的方式作为人设背景**
 
-**[TODO] 当前生成的丰富性遇到了瓶颈，因此将重新设计构建profile的方法，并生成一批新的profile，针对新的profile调整prompt**
+**[7.8] 生成了一批新的profile，可见seeker_background.jsonl和supporter_background.jsonl，特征语义表达更丰富**
+
+**[TODO] 正在调整prompt**
 
 ## 文件说明
 - dial_settings.json 人物设定字段
